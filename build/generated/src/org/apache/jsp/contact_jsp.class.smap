@@ -1,0 +1,14 @@
+SMAP
+contact_jsp.java
+JSP
+*S JSP
+*F
++ 0 contact.jsp
+contact.jsp
++ 1 normal_navbar.jsp
+normal_navbar.jsp
+*L
+1,29:49
+1#1,42:78
+29#0,74:120
+*E
